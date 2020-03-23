@@ -4,17 +4,20 @@ In this project we made rfid door lock with present list in database system and 
 
 Hardware Requirement-
 
-Arduino ESP8266 Board
-MFRC522 RFID reader
-Solenoid lock
-Buzzers
-led
-jumper wires
+Arduino ESP8266 Board,
+MFRC522 RFID reader,
+Solenoid lock,
+Buzzers,
+led,
+jumper wires,
+Single channel Relay Module,
+12 v power supply for solenoid lock.
+
 
 Software requirement-
 
-Arduino IDE
-Xampp or wamp server for database
+Arduino IDE,
+Xampp or wamp server for database.
 
 How to run-
 Just connect all things according to diagram and upload code in arduino. change pin no in code according to your connections.
